@@ -6,7 +6,7 @@ This is an Arduino script that displays the date, time, weather conditions, and 
 Required Components
 -------------------
 
--   LCD with I2C module
+-   LCD2004 20x4 with I2C module
 -   Wemo D1 board with WiFi
 -   GND to GND connection
 -   VCC to 5V connection
