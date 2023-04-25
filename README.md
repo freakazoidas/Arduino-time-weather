@@ -8,3 +8,4 @@ SCL > D14
 
 LCD @004 with l2c module
 Wemo d1 board with wifi
+![image](https://user-images.githubusercontent.com/26854208/234376462-98ffa511-da2b-46df-8ece-4cfc4932fafa.png)
