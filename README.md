@@ -18,9 +18,7 @@ Usage
 
 1.  Connect the required components as described above.
 2.  Upload the `Arduino-time-weather` sketch to your Arduino board.
-3.  Open the serial monitor and wait for it to display the IP address.
-4.  Open a web browser and navigate to the IP address.
-5.  The display will show the current time, date, weather conditions, and temperature.
+3.  Update code with your wifi name, password.
 
 Note: You will need to modify the code with your own OpenWeatherMap API key and location information to get the weather information.
 
