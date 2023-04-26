@@ -23,3 +23,6 @@ Usage
 Note: You will need to modify the code with your own OpenWeatherMap API key and location information to get the weather information.
 
 ![image](https://user-images.githubusercontent.com/26854208/234379754-0dbd3e6b-a821-4c04-a32b-0b5738105970.png)
+
+![image](https://user-images.githubusercontent.com/26854208/234497176-04714e4e-85c8-4c57-adee-c23843520b4a.png)
+
